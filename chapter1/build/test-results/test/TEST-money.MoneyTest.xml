@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="money.MoneyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-08-25T12:24:39" hostname="masudajunoMacBook-Pro.local" time="0.029">
+  <properties/>
+  <testcase name="testSimpleAddition()" classname="money.MoneyTest" time="0.02"/>
+  <testcase name="testMultiplication()" classname="money.MoneyTest" time="0.001"/>
+  <testcase name="testCurrency()" classname="money.MoneyTest" time="0.001"/>
+  <testcase name="testEquality()" classname="money.MoneyTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
